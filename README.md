@@ -31,6 +31,6 @@
 </br>
 </br>
 
-![haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun0228&hide=stars&hide_rank=true&show_icons=true&theme=transparent&title_color=ff87ca&icon_color=ff87ca&text_color=ffb7ef)
+![haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun0228&hide=stars&hide_rank=true&count_private=true&show_icons=true&theme=transparent&title_color=ff87ca&icon_color=ff87ca&text_color=ffb7ef)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun0228&layout=compact)](https://github.com/haeun0228/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun0228&count_private=true&show_icons=true&layout=compact&title_color=ff87ca&text_color=ffb7ef)](https://github.com/haeun0228/github-readme-stats)
