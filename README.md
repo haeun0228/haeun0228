@@ -2,10 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=black&height=130&section=header&text=haeun's%20git%20&fontSize=60&fontColor=ff87ca&width=60"/>
 </br>
+</br>
 
 ### 📱Contact
 <a href="https://www.instagram.com/hav_a_gr8_dae/"><img src="https://img.shields.io/badge/Instagram-black?labelColor=black?style=for-the-badge&logo=instagram&logoColor=pink">
 <a href="mailto:eileen0228@naver.com"><img src="https://img.shields.io/badge/email-black?labelColor=black?style=for-the-badge&logo=mail.ru&logoColor=white">
+</br>
+</br>
 
 ### 💻Tech Stack 
 
