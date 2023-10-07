@@ -27,3 +27,8 @@
 <a href="https://www.notion.so/cf083a40664a488d9bf531a410bbcbbe?pvs=4"><img src="https://img.shields.io/badge/Notion-black?labelColor=whitestyle=for-the-badge&logo=notion&logoColor=ff87ca">
 
 </div>
+
+</br>
+</br>
+
+![haeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun0228&hide=stars&hide_rank=true&show_icons=true&theme=transparent&title_color=ff87ca&icon_color=ff87ca&text_color=ffb7ef)
