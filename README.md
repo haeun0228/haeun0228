@@ -27,6 +27,7 @@
 ### 📚 Study Log 📚
 
 <a href="https://www.notion.so/cf083a40664a488d9bf531a410bbcbbe?pvs=4"><img src="https://img.shields.io/badge/Notion-black?labelColor=whitestyle=for-the-badge&logo=notion&logoColor=ff87ca">
+<a href="https://haeunstudy.tistory.com/"><img src="https://img.shields.io/badge/Notion-black?labelColor=whitestyle=for-the-badge&logo=tistory&logoColor=ff87ca">
 </br>
 </br>
 
